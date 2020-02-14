@@ -3,7 +3,7 @@
 # Modo de uso: python adivinhando_numero.py ou python3 adivinhando_numero.py 
 # Recomenda-se que rode no modo root
 
-Se não tiver as dependencias instalado irá instalar altomaticamente.
+Se não tiver as dependencias instalado, irá instalar automaticamente.
 
 Como Brincar: Voce irá chutar um numero e o programa irá adivinhar qual numero voce chutou.
 
