@@ -3,7 +3,6 @@ from random import randint
 plat = sys.platform
 try:
     import PySimpleGUI as sg
-    from googlesearch import search
 except:
     if plat == 'win32':
         os.system('pip install pysimplegui')
